@@ -1,8 +1,8 @@
 # Links
-Links bacanas que achei por aí
+## Links bacanas que achei por aí
 
 
-## Game Dev que ajuda outros devs com joguinhos
+### Game Dev que ajuda outros devs com joguinhos
 
   < https://codepip.com/ >
   
