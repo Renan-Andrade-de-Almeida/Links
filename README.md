@@ -2,7 +2,7 @@
 ## Links bacanas que achei por aí
 
 
-### Game Dev que ajuda outros devs com joguinhos
+### Aprendendo programação jogando
 
   < https://codepip.com/ >
   
